@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Cachorro cachorro_1 = new Cachorro();
 		
-		cachorro_1.nome="Rabino";
+		cachorro_1.setNome("Rabino");
 		
 		cachorro_1.raca="Viralata";
 		cachorro_1.idade=10;
