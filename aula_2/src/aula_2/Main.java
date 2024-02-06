@@ -8,9 +8,9 @@ public class Main {
 		
 		cachorro_1.setNome("Rabino");
 		
-		cachorro_1.raca="Viralata";
-		cachorro_1.idade=10;
-		cachorro_1.cor="Preto e marron";
+		cachorro_1.setRaca("viralata");
+		cachorro_1.setIdade("10")
+		cachorro_1.setCor=("Preto e marron");
 		
 		cachorro_1.GetCachorro();
 	}
